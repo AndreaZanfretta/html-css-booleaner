@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+/*     box-sizing: border-box;
+    font-size: 22px;
+    font-weight: bold; */
+}
+
+header{
+    height: 175px;
+    width: 100%;
+    background-color: rgb(0, 140, 255);
+    background-image: url(/img/pattern.png);
+    background-repeat: repeat-x;
+    background-position: top;
+    position: relative;
+}
+
+.logo{
+    width: 40%;
+    position: absolute;
+    bottom: 10px;
+    left: 5px;
+}
+
+h1{
+    margin: 10px;
+    font-size: 70px;
+
+}
+
+.grey-text, h2{
+    color: gray;
+    font-size: medium;
+    margin: 0px;
+}
+
+.data{
+    font-size: small;
+}
+
+.blue-text{
+    color: rgb(0, 153, 255);
+    font-size: medium;
+    font-weight: bold;
+}
+
+.picture{
+    font-size: small;
+
+}
+
+#foto2{
+    margin-bottom: 10px;
+}
+
+.lorem{
+    margin-bottom: 15px;
+}
+
+.yellow-text{
+    background-color: yellow;
+}
+
+thead{
+    background-color: rgb(0, 140, 255);
+}
+
+.blue-table{
+    background-color: rgb(0, 183, 255);
+}
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+td{
+    padding: 10px;
+}
+
+.footer1{
+    margin-top: 5px;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+    width: 30%;
+    height: 200px;
+    position: relative;
+}
+
+.footer2{
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+    width: 25%;
+    height: 200px;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.loremfoot{
+    position: absolute;
+}
